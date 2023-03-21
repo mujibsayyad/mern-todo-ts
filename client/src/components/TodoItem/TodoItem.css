@@ -1,0 +1,39 @@
+.update-form {
+  display: flex;
+  justify-content: space-around;
+}
+
+.update-form input {
+  padding: 5px;
+  width: 24rem;
+  margin-right: 5px;
+}
+
+.update-form button {
+  width: 3rem;
+  font-size: 0.8rem;
+  padding: 0;
+  margin-left: 0.5rem;
+}
+
+.li-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.li-flex i {
+  margin-left: 1rem;
+}
+
+.input-todo {
+  display: flex;
+}
+
+.li-flex li {
+  width: 25rem;
+}
+
+.fa-solid:hover {
+  color: red !important;
+}

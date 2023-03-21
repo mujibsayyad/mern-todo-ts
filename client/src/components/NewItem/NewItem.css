@@ -1,0 +1,28 @@
+.NewItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.NewItem input {
+  width: 20rem;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  border: none;
+  margin: 1rem;
+}
+
+.NewItem input:focus {
+  outline: 2px solid blueviolet;
+}
+
+.NewItem button {
+  padding: 0.2rem 2rem;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.NewItem button:hover {
+  outline: 2px solid blueviolet;
+}

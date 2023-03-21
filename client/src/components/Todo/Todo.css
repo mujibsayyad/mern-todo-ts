@@ -1,0 +1,14 @@
+.todo-div {
+  display: grid;
+  place-items: center;
+  min-height: 50vh;
+}
+
+.todo-list {
+  list-style: none;
+}
+
+.logout-div {
+  position: absolute;
+  bottom: 0;
+}
